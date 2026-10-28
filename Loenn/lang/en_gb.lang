@@ -1,0 +1,8 @@
+# Sample Entity
+entities.EmpyrealCity/SampleEntity.placements.name.normal=Sample Entity
+entities.EmpyrealCity/SampleEntity.attributes.description.sampleProperty=A sample property for your entity.
+entities.EmpyrealCity/HarmlessSpike.placements.name.normal=HarmlessSpike
+
+# Sample Trigger
+triggers.EmpyrealCity/SampleTrigger.placements.name.normal=Sample Trigger
+triggers.EmpyrealCity/SampleTrigger.attributes.description.sampleProperty=A sample property for your trigger.

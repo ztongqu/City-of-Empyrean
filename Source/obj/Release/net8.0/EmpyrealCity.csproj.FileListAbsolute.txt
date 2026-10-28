@@ -1,0 +1,12 @@
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/bin/Release/net8.0/EmpyrealCity.deps.json
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/bin/Release/net8.0/EmpyrealCity.dll
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/bin/Release/net8.0/EmpyrealCity.pdb
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.csproj.AssemblyReference.cache
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.AssemblyInfoInputs.cache
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.AssemblyInfo.cs
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.csproj.CoreCompileInputs.cache
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.dll
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/refint/EmpyrealCity.dll
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/EmpyrealCity.pdb
+/Users/william/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/EmpyrealCity/Source/obj/Release/net8.0/ref/EmpyrealCity.dll
