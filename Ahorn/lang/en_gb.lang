@@ -1,0 +1,5 @@
+# Sample Entity
+placements.entities.EmpyrealCity/SampleEntity.tooltips.sampleProperty=A sample property for your entity.
+
+# Sample Trigger
+placements.triggers.EmpyrealCity/SampleTrigger.tooltips.sampleProperty=A sample property for your trigger.

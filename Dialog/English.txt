@@ -1,0 +1,86 @@
+EmpyrealCity_FAE4D333=City of Empyrean
+
+EmpyrealCity_FAE4D333_EmpyrealCity=City of Empyrean
+
+poem_EmpyrealCity_FAE4D333_EmpyrealCity_A=FinishPoem
+
+puzzle2_gravity=Gravity
+
+puzzle2_jump=Jump Speed Boost
+
+puzzle2_p01=+0.1%
+
+puzzle2_n01=-0.1%
+
+puzzle2_p1=+1%
+
+puzzle2_n1=-1%
+
+puzzle2_p10=+10%
+
+puzzle2_n10=-10%
+
+puzzle2_p100=+100%
+
+puzzle2_n100=-100%
+
+prologue_note=
+aaaaaaa{n}
+bbbbbb{n}
+aaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+aaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+vccdvaaaaaaa{n}
+bbbbbb{n}
+
+chunping=
+[A left none]
+{# af07ac}{#}
+{anchor middle}
+[XIANBEI left none]
+{*}{big}{>> 0.04514}{# 454514}JUNPEI{#}{>>}         {/big}{/anchor}{/*}
+
+radon=
+{# af07ac}Like {#}{~}{# ff2222}K{#}{# ff22ff}r{#}{# 2222ff}y{#}{# 22ffff}p{#}{# 22ff22}t{#}{# ff2222}o{#}{# ff22ff}n{#}{/~}{# af07ac},
+This room is extremely input dense. Most of the inputs will be a buffer or a freeze frame.
+Dash cooldown is disabled. Ultra protection is enabled on some platforms so try to buffer every ultra.
+Bumpers and puffers in this room will conserve momentum.
+The {# 8fdeff}light blue crystals{#} here can recover your stamina and provide freeze frames.
+Always buffer a dream jump when leaving a dream block {#}{# 777777}(1st possible frame){#}{# af07ac} instead of jump in the freeze frames {#}{# 777777}(2nd possible frame){#}{# af07ac} or coyote frames {#}{# 777777}(2nd-6th possible frames){#}{# af07ac}. Otherwise it might cause you to enter a further pixel.
+Please take rests when you feel your hands hurt.
+GL on {#}{>> 0.0137}{# 8fdeff}RADON{#}{>>}{# af07ac}.{#}
+
+
